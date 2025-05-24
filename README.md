@@ -2,7 +2,7 @@
 
 This project is a static website template for a restaurant. It includes sections for menu, gallery, contact form, and more.
 
-> 🚧 **Note:** This website is currently under development and is not fully functional or styled.
+ **Note:** This website is currently under development and is not fully functional or styled.
 
 ## Features
 - HTML/CSS layout
